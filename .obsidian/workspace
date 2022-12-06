@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "0c12a6de7c6a116d",
+    "type": "split",
+    "children": [
+      {
+        "id": "49ec8756ac54fbe4",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "09528b7674880b91",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Js/Без названия.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02df7078ad08f92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7bd05164961e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62d70363812702d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "388e7da45cb294bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7465f4ff8cd5953e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "321c36f6ab57b134",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc11a2b4cd2b9294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137664b8b0447f66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Js/Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e97faff92db4a74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Js/Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ece8d2a752967330",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63d0e6ae0f74f9e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Js/Без названия.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09528b7674880b91",
+  "lastOpenFiles": [
+    "Без названия 10.md",
+    "Без названия 9.md",
+    "Без названия 5.md",
+    "Без названия.md",
+    "Тест.md",
+    "Без названия 36.md",
+    "Без названия 35.md",
+    "Без названия 34.md",
+    "Без названия 33.md",
+    "Без названия 32.md"
+  ]
+}

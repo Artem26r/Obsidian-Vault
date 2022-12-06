@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "0c12a6de7c6a116d",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d9cbffad97ab34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ec8756ac54fbe4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "6db990a98bd47e5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02df7078ad08f92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7bd05164961e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62d70363812702d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "388e7da45cb294bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7465f4ff8cd5953e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "321c36f6ab57b134",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc11a2b4cd2b9294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137664b8b0447f66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e97faff92db4a74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ece8d2a752967330",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63d0e6ae0f74f9e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6db990a98bd47e5c",
+  "lastOpenFiles": [
+    "Js/DOM API/Element.getAttribute().md",
+    "Js/DOM API/Document.querySelector().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.includes().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.slice().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.sort().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.shift().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.reduce().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.push().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.pop().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.map().md"
+  ]
+}
