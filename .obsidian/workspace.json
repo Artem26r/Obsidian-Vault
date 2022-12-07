@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.slice().md",
+                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md"
+              }
             }
           }
         ]
@@ -186,7 +191,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49ec8756ac54fbe4",
+  "active": "62d70363812702d1",
   "lastOpenFiles": [
     "Js/Стандартные встроенные объекты/Методы строки/String.prototype.slice().md",
     "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
