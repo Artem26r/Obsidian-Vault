@@ -1,0 +1,2 @@
+Сводка
+Метод **`join()`** объединяет все элементы массива (или [массивоподобного объекта](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Indexed_collections#working_with_array-like_objects)) в строку.
