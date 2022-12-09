@@ -72,9 +72,20 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "52aed85d996aa18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62d70363812702d1",
+  "active": "49ec8756ac54fbe4",
   "lastOpenFiles": [
-    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.slice().md",
+    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md",
     "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
+    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.slice().md",
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.includes().md",
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.find().md",
     "Js/Стандартные встроенные объекты/Методы массива/Тест.md",
     "Js/DOM API/Element.getAttribute().md",
     "Js/DOM API/Document.querySelector().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.slice().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.sort().md"
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.slice().md"
   ]
 }
