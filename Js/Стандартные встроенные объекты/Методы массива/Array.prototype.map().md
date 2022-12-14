@@ -118,3 +118,4 @@ const returnInt = (element) => parseInt(element, 10);
 
 #Arrayprototype
 #immutable
+#js

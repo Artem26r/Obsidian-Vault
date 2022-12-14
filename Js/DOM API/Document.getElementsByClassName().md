@@ -18,4 +18,4 @@ var testDivs = Array.prototype.filter.call(testElements, function(testElement){
 });
 ```
 
-#dom-api #document
+#dom-api #document #js

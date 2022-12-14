@@ -177,3 +177,4 @@ var result = mapped.map(function(el) {
 ```
 
 #Arrayprototype
+#js

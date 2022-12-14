@@ -27,4 +27,4 @@ element = document.querySelector(selectors);
 var el = document.querySelector("div.user-panel.main input[name=login]");
 ```
 
-#dom-api #document
+#dom-api #document #js

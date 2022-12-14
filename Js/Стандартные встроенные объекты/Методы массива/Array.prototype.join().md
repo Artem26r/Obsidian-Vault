@@ -30,3 +30,4 @@ var myVar4 = a.join('');    // присвоит 'ВетерДождьОгонь'
 ```
 
 #Arrayprototype
+#js

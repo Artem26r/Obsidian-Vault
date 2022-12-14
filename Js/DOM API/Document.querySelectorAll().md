@@ -58,5 +58,4 @@ highlightedItems.forEach(function(userItem) {
 });
 ```
 
-#dom-api
-#document
+#dom-api #document #js

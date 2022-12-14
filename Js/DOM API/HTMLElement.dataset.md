@@ -167,5 +167,4 @@ element.dataset = 'string'
 
 Браузер даёт возможность управлять дата-атрибутами через специальное API `dataset`.
 
-#dom-api
-#html
+#dom-api #html #js

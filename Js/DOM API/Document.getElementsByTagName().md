@@ -7,4 +7,4 @@ var elements = document.getElementsByTagName(name);
 -   `elements` это живая [`HTMLCollection`](https://developer.mozilla.org/ru/docs/Web/API/HTMLCollection) (с учётом примечания внизу) найденных документов в таком порядке в каком они появляются в дереве.
 -   `name` строка представляющая собой имя элемента. Специальная строка "*" позволяет получить все элементы.
 
-#dom-api  #document
+#dom-api  #document #js

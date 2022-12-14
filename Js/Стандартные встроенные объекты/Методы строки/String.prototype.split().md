@@ -67,3 +67,4 @@ splitString(monthString, comma);
 ```
 
 #Stringprototype
+#js

@@ -72,3 +72,4 @@ console.log([4, 5, 8, 12].find(isPrime)); // 5
 ```
 
 #Arrayprototype
+#js

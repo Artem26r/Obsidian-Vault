@@ -36,3 +36,4 @@ myFish после: клоун,мандарин,хирург
 ```
 
 #Arrayprototype
+#js

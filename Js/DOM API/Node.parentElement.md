@@ -14,4 +14,4 @@ if (node.parentElement) {
 }
 ```
 
-#dom-api #node
+#dom-api #node #js

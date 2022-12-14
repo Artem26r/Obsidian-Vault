@@ -22,4 +22,4 @@ remove( String [,String] )
 
 **Примечание:** И, конечно же, у **ClassList** есть заветное свойство **length**, которое возвращает количество классов у элемента.
 
-#dom-api #element
+#dom-api #element #js

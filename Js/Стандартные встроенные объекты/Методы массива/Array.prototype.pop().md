@@ -30,3 +30,4 @@ console.log(popped); // 'хирург'
 ```
 
 #Arrayprototype
+#js

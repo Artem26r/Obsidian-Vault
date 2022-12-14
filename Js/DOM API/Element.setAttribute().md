@@ -35,4 +35,4 @@ b.setAttribute("disabled", "disabled");
 
 Методы DOM имеют дело с атрибутами элементов:
 
-#dom-api #element
+#dom-api #element #js

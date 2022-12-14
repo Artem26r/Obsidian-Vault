@@ -24,3 +24,4 @@ if (!String.prototype.trim) {
 ```
 
 #Stringprototype
+#js

@@ -73,3 +73,4 @@ str.slice(-5, -1); // вернёт 'утро'
 ```
 
 #Stringprototype
+#js

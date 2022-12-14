@@ -16,4 +16,4 @@ element.id = 'testqq';
 var el = document.getElementById('testqq'); // el will be null!
 ```
 
-#dom-api #document
+#dom-api #document #js

@@ -18,68 +18,12 @@
             }
           },
           {
-            "id": "39b809c5d63118fe",
+            "id": "4bb584662fee0675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.find().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce0be24741781d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0ee19e13cc185cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82470ee701668fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6db990a98bd47e5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "52aed85d996aa18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md",
+                "file": "React/componentWillUnmount().md",
                 "mode": "source",
                 "source": false
               }
@@ -200,15 +144,15 @@
   },
   "active": "49ec8756ac54fbe4",
   "lastOpenFiles": [
-    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md",
-    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
-    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.slice().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.includes().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.find().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Тест.md",
+    "React/componentWillUnmount().md",
+    "React/componentDidUpdate().md",
+    "React/componentDidMount().md",
+    "Js/DOM API/Node.parentElement.md",
+    "Js/DOM API/Node.nextElementSibling.md",
+    "Js/DOM API/HTMLElement.dataset.md",
+    "Js/DOM API/Element.setAttribute().md",
     "Js/DOM API/Element.getAttribute().md",
-    "Js/DOM API/Document.querySelector().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.slice().md"
+    "Js/DOM API/Element.classList.md",
+    "Js/DOM API/Document.querySelectorAll().md"
   ]
 }

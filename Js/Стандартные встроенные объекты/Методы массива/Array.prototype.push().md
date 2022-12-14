@@ -14,3 +14,4 @@ console.log(total);  // 4
 ```
 
 #Arrayprototype
+#js
