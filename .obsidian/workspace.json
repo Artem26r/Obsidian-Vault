@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/componentWillUnmount().md",
+                "file": "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md"
+              }
             }
           }
         ]
@@ -142,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49ec8756ac54fbe4",
+  "active": "4bb584662fee0675",
   "lastOpenFiles": [
-    "React/componentWillUnmount().md",
-    "React/componentDidUpdate().md",
-    "React/componentDidMount().md",
-    "Js/DOM API/Node.parentElement.md",
-    "Js/DOM API/Node.nextElementSibling.md",
-    "Js/DOM API/HTMLElement.dataset.md",
-    "Js/DOM API/Element.setAttribute().md",
-    "Js/DOM API/Element.getAttribute().md",
-    "Js/DOM API/Element.classList.md",
-    "Js/DOM API/Document.querySelectorAll().md"
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.shift().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.slice().md",
+    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.slice().md",
+    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
+    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.includes().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.find().md",
+    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.filter().md",
+    "React/componentWillUnmount().md"
   ]
 }
