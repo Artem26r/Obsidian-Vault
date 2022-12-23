@@ -42,17 +42,18 @@
             }
           },
           {
-            "id": "75fc798b9eb3fc5c",
+            "id": "be5c99c7ddf9782f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "React/Hooks/useState.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Hooks/useState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Hooks/useState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/Hooks/useState.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,17 +176,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "75fc798b9eb3fc5c",
+  "active": "49ec8756ac54fbe4",
   "lastOpenFiles": [
+    "React/Hooks/useState.md",
+    "React/componentDidMount().md",
+    "Redux/Hooks/useDispatch().md",
+    "React/componentWillUnmount().md",
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.shift().md",
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.slice().md",
     "Js/Стандартные встроенные объекты/Методы строки/String.prototype.slice().md",
     "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
-    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.includes().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.find().md",
-    "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.filter().md",
-    "React/componentWillUnmount().md"
+    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md"
   ]
 }
