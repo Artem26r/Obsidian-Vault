@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75fc798b9eb3fc5c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0a19f994f705d49",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "75fc798b9eb3fc5c",
   "lastOpenFiles": [
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.shift().md",
