@@ -16,42 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "4bb584662fee0675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.join().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0a19f994f705d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Hooks/useState.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be5c99c7ddf9782f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Hooks/useState.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -179,6 +143,7 @@
   "active": "49ec8756ac54fbe4",
   "lastOpenFiles": [
     "React/Hooks/useState.md",
+    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md",
     "React/componentDidMount().md",
     "Redux/Hooks/useDispatch().md",
     "React/componentWillUnmount().md",
@@ -186,7 +151,6 @@
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.shift().md",
     "Js/Стандартные встроенные объекты/Методы массива/Array.prototype.slice().md",
     "Js/Стандартные встроенные объекты/Методы строки/String.prototype.slice().md",
-    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md",
-    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.trim().md"
+    "Js/Стандартные встроенные объекты/Методы строки/String.prototype.split().md"
   ]
 }
